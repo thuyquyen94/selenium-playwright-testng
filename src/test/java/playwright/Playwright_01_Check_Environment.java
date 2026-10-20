@@ -6,7 +6,7 @@ import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 import org.testng.annotations.Test;
 
-    public class Playwright_01Check_Environment {
+    public class Playwright_01_Check_Environment {
         Playwright playwright;
         Browser browser;
         Page page;
